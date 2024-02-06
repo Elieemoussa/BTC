@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v41ftyM9DWqwfqk/nBZ++GpRzsJQRFnxqVnhh7EkM+o=",
+  "Source": "BTC",
+  "BasePath": "_content/BTC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
